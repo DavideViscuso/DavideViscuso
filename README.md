@@ -40,7 +40,7 @@ My Twitter Account
 
 <details>
 <summary>
-•My Setup
+My Setup
 </summary>
 <br>
 
