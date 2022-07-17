@@ -6,7 +6,7 @@
 
 ### • About me :
 
-### Certificate [Dele Spanish language A2/B1](https://examenes.cervantes.es/es/dele/examenes/a2) and [Trinity English language grade 4](https://www.tcd.ie/alumni/newsevents/webinars/gclid=EAIaIQobChMIn8qNxN_6-AIVmLh3Ch0U4AtREAAYASAAEgILgPD_BwE)🏆. Also participant in <br> [Etwinning] (https://www.etwinning.net/it/pub/index.htm) project for environmental sustainability
+### Certificate [Dele Spanish language A2/B1](https://examenes.cervantes.es/es/dele/examenes/a2) and [Trinity English language grade 4](https://www.tcd.ie/alumni/newsevents/webinars/gclid=EAIaIQobChMIn8qNxN_6-AIVmLh3Ch0U4AtREAAYASAAEgILgPD_BwE)🏆. Also participant in <br> [Etwinning](https://www.etwinning.net/it/pub/index.htm) project for environmental sustainability
 
 ### • What and where will I study📚?
 
