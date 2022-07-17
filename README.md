@@ -53,5 +53,7 @@ My Twitter Account
 ##### My Monitor: [Samsung Monitor HRM](https://www.amazon.it/Samsung-Monitor-3840x2160-Pannello-FreeSync/dp/B08XNLJ886/ref=sr_1_42?crid=1BGG729O7MLNF&keywords=monitor+samsung+27+pollici&qid=1657891115&sprefix=monitor+samnusng%2Caps%2C177&sr=8-42)
   
 </details>
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 ![Dadda's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideViscuso&show_icons=true&theme=algolia)
