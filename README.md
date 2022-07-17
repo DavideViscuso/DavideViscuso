@@ -1,7 +1,7 @@
 # Hi there, I am Dadda
 
->Hi, I'm Dadda, an Italian guy who is passionate about computers and nuclear energy.
->An Italian boy who is trying to learn computer language, studying at Biomedioc in the first year.
+>Hi, I'm Dadda, an Italian guy who is passionate about computers and nuclear energy. 🧬
+>An Italian boy who is trying to learn computer language, studying at Biomedioc in the first year. 🔬
 
 
 ### •About me :
@@ -11,10 +11,10 @@ Also participant in the Mab and [Etwinning](https://www.etwinning.net/it/pub/ind
 project for environmental sustainability
 
 
-## | [Learn more about my project](https://github.com/Nuclear-Company)
+## | [Learn more about my project] 💡 (https://github.com/Nuclear-Company)
 
 
-### •What and where will I study?
+### •What and where will I study📚?
 
 I will study and deepen the humanities and scientific subjects also touching 
 languages such as Greek and Latin, 
@@ -22,13 +22,13 @@ I will study at the scientific institute with biomedical branch
 to undertake and deepen the medical 
 study in the future and at university.
 
-### •Future plans and current projects
+### •Future plans and current projects📈:
 I am currently working on the creation of my personal website where I will mention all my skills and projects.
 In the future I would like to take part in a vaccine research project against incurable diseases.
 
 <details>
 <summary>
-My social:
+My social📱:
 </summary>
 <br>
   
@@ -49,7 +49,7 @@ My Twitter Account
 
 <details>
 <summary>
-My Setup
+My Setup💻:
 </summary>
 <br>
 
