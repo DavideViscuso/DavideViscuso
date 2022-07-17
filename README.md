@@ -10,10 +10,6 @@
 Also participant in the Mab and [Etwinning](https://www.etwinning.net/it/pub/index.htm)
 project for environmental sustainability
 
-
-### [Learn more about my project💡](https://github.com/Nuclear-Company)
-
-
 ### •What and where will I study📚?
 
 I will study and deepen the humanities and scientific subjects also touching 
@@ -65,4 +61,7 @@ My Setup💻:
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+### [Learn more about my project💡](https://github.com/Nuclear-Company)
+
 ![Dadda's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideViscuso&show_icons=true&theme=algolia)
+
