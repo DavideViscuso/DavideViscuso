@@ -9,7 +9,7 @@ project for environmental sustainability
 Hi, I'm Dadda, an Italian guy who is passionate about computers and nuclear energy.
 
 
-## | Learn more about my project <a href="https://github.com/DavideViscuso" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DavideViscuso/DavideViscuso/main/pixil-frame-0%20(2).png" width="82" height="82" /></a>
+## | Learn more about my project <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DavideViscuso/DavideViscuso/main/pixil-frame-0%20(2).png" width="82" height="82" /></a>
 
 
 ### •What and where will I study?
