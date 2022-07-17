@@ -6,18 +6,18 @@
 
 ### • About me :
 
->### Certificate [Dele Spanish language A2/B1](https://examenes.cervantes.es/es/dele/examenes/a2) and [Trinity English language grade 4](https://www.tcd.ie/alumni/newsevents/webinars/gclid=EAIaIQobChMIn8qNxN_6-AIVmLh3Ch0U4AtREAAYASAAEgILgPD_BwE)🏆. <br> Also participant in [Etwinning](https://www.etwinning.net/it/pub/index.htm) project for environmental sustainability
+### Certificate [Dele Spanish language A2/B1](https://examenes.cervantes.es/es/dele/examenes/a2) and [Trinity English language grade 4](https://www.tcd.ie/alumni/newsevents/webinars/gclid=EAIaIQobChMIn8qNxN_6-AIVmLh3Ch0U4AtREAAYASAAEgILgPD_BwE)🏆. <br> Also participant in [Etwinning](https://www.etwinning.net/it/pub/index.htm) project for environmental sustainability
 
 ### • What and where will I study📚?
 
->I will study and deepen the humanities and scientific subjects also touching 
+I will study and deepen the humanities and scientific subjects also touching 
 languages such as Greek and Latin, 
 I will study at the scientific institute with biomedical branch 
 to undertake and deepen the medical 
 study in the future and at university.
 
 ### • Future plans and current projects📈:
->I am currently working on the creation of my personal website where I will mention all my skills and projects.
+I am currently working on the creation of my personal website where I will mention all my skills and projects.
 In the future I would like to take part in a vaccine research project against incurable diseases.
 
 <details>
