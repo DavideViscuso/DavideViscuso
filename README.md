@@ -1,12 +1,12 @@
 # Hi there, I am Dadda
 
+>Hi, I'm Dadda, an Italian guy who is passionate about computers and nuclear energy.
+
 ### •About me :
 
 ### 🏆Certificate [Dele Spanish language A2/B1](https://examenes.cervantes.es/es/dele/examenes/a2) and [Trinity English language grade 4](https://www.tcd.ie/alumni/newsevents/webinars/gclid=EAIaIQobChMIn8qNxN_6-AIVmLh3Ch0U4AtREAAYASAAEgILgPD_BwE). 
 Also participant in the Mab and [Etwinning](https://www.etwinning.net/it/pub/index.htm)
 project for environmental sustainability
-
-Hi, I'm Dadda, an Italian guy who is passionate about computers and nuclear energy.
 
 
 ## | Learn more about my project <a href="https://github.com/Nuclear-Company" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DavideViscuso/DavideViscuso/main/pixil-frame-0%20(2).png" width="82" height="82" /></a>
