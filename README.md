@@ -59,9 +59,18 @@ My Setup💻:
   
 </details>
 
+<details>
+  <summary>
+    Stats📊:
+  </summary>
+  <br>
+  
+  ![Dadda's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideViscuso&show_icons=true&theme=algolia)
+  
+  </details>
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 ### [Learn more about my project💡](https://github.com/Nuclear-Company)
 
-![Dadda's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideViscuso&show_icons=true&theme=algolia)
 
