@@ -39,7 +39,7 @@ My Reddit Account
 
 My Twitter Account
 
-<a href="https://twitter.com/Davideviscuso_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DavideViscuso/About-me/main/t.png" width="32" height="32" /></a>
+<a href="https://twitter.com/Davideviscuso_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DavideViscuso/DavideViscuso/main/t.png" width="32" height="32" /></a>
 
 
 
