@@ -24,8 +24,13 @@ study in the future and at university.
 I am currently working on the creation of my personal website where I will mention all my skills and projects.
 In the future I would like to take part in a vaccine research project against incurable diseases.
 
-### •My social:
-
+<details>
+<summary>
+My social:
+</summary>
+<br>
+  
+  
 My Instagram Account
 
 <a href="http://www.instagram.com/davideviscuso_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
@@ -37,6 +42,8 @@ My Reddit Account
 My Twitter Account
 
 <a href="https://twitter.com/Davideviscuso_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DavideViscuso/DavideViscuso/main/t.png" width="32" height="32" /></a>
+  
+</Details>
 
 <details>
 <summary>
