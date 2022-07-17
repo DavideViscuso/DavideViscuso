@@ -1,8 +1,7 @@
 # Hi there, I am Dadda
 
->Hi, I'm Dadda, an Italian guy who is passionate about computers and nuclear energy. 🧬
-
->An Italian boy who is trying to learn computer language, studying at Biomedioc in the first year. 🔬
+>Hi, I'm Dadda, an Italian guy who is passionate about computers and nuclear energy.
+>An Italian boy who is trying to learn computer language, studying at Biomedioc in the first year.
 
 
 ### •About me :
