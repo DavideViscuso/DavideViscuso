@@ -21,7 +21,7 @@ to undertake and deepen the medical
 study in the future and at university.
 
 ### •The logo of my future company:
-<a href="https://davideviscuso.github.io/Davide/"><img src="https://raw.githubusercontent.com/DavideViscuso/About-me/main/F5286BE6-0F6C-48E4-A77A-B42954871448.png" /></a>
+<a href="https://davideviscuso.github.io/Davide/"><img src="https://raw.githubusercontent.com/DavideViscuso/DavideViscuso/main/F5286BE6-0F6C-48E4-A77A-B42954871448.png" /></a>
 
 ### •Future plans and current projects
 I am currently working on the creation of my personal website where I will mention all my skills and projects.
