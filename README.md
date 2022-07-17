@@ -11,7 +11,7 @@ Also participant in the Mab and [Etwinning](https://www.etwinning.net/it/pub/ind
 project for environmental sustainability
 
 
-## | [Learn more about my project] 💡 (https://github.com/Nuclear-Company)
+## | [Learn more about my project💡](https://github.com/Nuclear-Company)
 
 
 ### •What and where will I study📚?
