@@ -35,7 +35,7 @@ My Instagram Account
 
 My Reddit Account
 
-<a href="https://www.reddit.com/user/DaddX-" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DavideViscuso/Davide/main/R.png?token=GHSAT0AAAAAABWRDPFIGZKJ2KWVMSUVFUPMYWUEQAQ" width="32" height="32" /></a> 
+<a href="https://www.reddit.com/user/DaddX-" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DavideViscuso/DavideViscuso/main/R.png" width="32" height="32" /></a> 
 
 My Twitter Account
 
